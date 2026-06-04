@@ -1,15 +1,4 @@
-<table border="0">
-  <tr>
-    <td valign="top" style="width: 300px; padding: 0;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo3bHN0cWIyNXI4ZG5xNmQxcXJhbmhkOTN3NDR1aGtjZWY4c2dteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3q3SUqPnxZGQpMNcjc/giphy.gif" 
-           alt="GIF" 
-           style="width: 100%; height: 274px; object-fit: cover; border-radius: 30px;" />
-    </td>
-    <td valign="top" style="padding: 0 0 0 15px;">
-      <img width="1640" height="664" alt="damien" src="https://github.com/user-attachments/assets/88ad617c-56b6-46be-9a9b-a1109a2b4f3f" style="border-radius: 16px;" />
-    </td>
-  </tr>
-</table>
+<img width="1640" height="664" alt="damien" src="https://github.com/user-attachments/assets/88ad617c-56b6-46be-9a9b-a1109a2b4f3f"/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
